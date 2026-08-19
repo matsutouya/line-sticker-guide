@@ -1,0 +1,7 @@
+*.png
+*.apng
+*.zip
+*.mp4
+.venv/
+poses/
+out/
